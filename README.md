@@ -1,5 +1,2 @@
 # Bot twitch
- Essa é a função sayHello():
-    function sayHello() {
-      return 'hi!';
-    }
+##Bot feito com o objetivo de pegar pontos na twitch
