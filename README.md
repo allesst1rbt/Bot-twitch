@@ -1,2 +1,5 @@
 # Bot twitch
- Bot feito para pegar pontos em lives
+ Essa é a função sayHello():
+    function sayHello() {
+      return 'hi!';
+    }
