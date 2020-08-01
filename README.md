@@ -4,7 +4,7 @@
 ## Como instalar:
 * Primeiro você terá que instalar o [Node](https://nodejs.org/en/download/)
  se ainda não tiver
-* Depois de instalar o Node execute o arquivo instalar.bat
+* Depois de instalar o Node execute o arquivo instalador.bat
 * Ao fim da instalação você terá que executar o login.bat
 ## Como ultilizar:
 * Ao executar o login.bat será pedido seu user e senha da twitch
