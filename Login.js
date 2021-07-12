@@ -9,10 +9,10 @@ const led  = async() => {
     await page.waitForSelector('button[class="sqdOP  L3NKy   y3zKF     "]', {visible:true})
     await page.click('button[class="sqdOP  L3NKy   y3zKF     "]')
     await page.waitForSelector('input[type="text"]')
-    await page.type('input[type="text"]', 'all3s_st1rbt', {delay:100})
+    await page.type('input[type="text"]', '', {delay:100})
   //  await page.type(String.fromCharCode(13));
     await page.waitForSelector('input[type="password"]')
-    await page.type('input[type="password"]', '140876camj', {delay:100})
+    await page.type('input[type="password"]', '', {delay:100})
     await page.keyboard.press('Enter');
     await page.waitForSelector('button[class="sqdOP  L3NKy   y3zKF     "]', {visible:true})
     await page.click('button[class="sqdOP  L3NKy   y3zKF     "]')
